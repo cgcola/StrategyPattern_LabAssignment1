@@ -1,5 +1,3 @@
-package src;
-
 import concreteStrategies.ArcherAttack;
 import concreteStrategies.ArcherDefend;
 import concreteStrategies.KnightAttack;
