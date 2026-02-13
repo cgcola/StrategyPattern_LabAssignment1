@@ -61,4 +61,4 @@ public class Character {
 ```
 <hr>
 ### UML Diagram:
-https://github.com/cgcola/StrategyPattern_LabAssignment1/blob/main/UMLDiagram:%20Lab%20Assignment%201%20_%20Strategy%20Pattern.png?raw=true
+<img width="4028" height="1913" alt="image" src="https://github.com/user-attachments/assets/2113ecda-97d3-46da-b612-b2d1a06a9a35" />
