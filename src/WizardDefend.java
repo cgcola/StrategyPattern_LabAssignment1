@@ -1,3 +1,4 @@
+package src;
 public class WizardDefend implements Defend {
 
     @Override

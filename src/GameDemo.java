@@ -1,3 +1,4 @@
+package src;
 public class GameDemo {
     public static void main(String[] args) {
         Character knight = new Character(new KnightAttack(), new KnightDefend());

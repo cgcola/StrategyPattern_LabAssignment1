@@ -1,3 +1,4 @@
+package src;
 public class WizardAttack implements Attack {
 
     @Override

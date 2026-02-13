@@ -1,3 +1,4 @@
+package src;
 public class Character {
     private Attack attackStrategy;
     private Defend defendStrategy;

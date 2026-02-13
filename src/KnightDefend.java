@@ -1,3 +1,4 @@
+package src;
 public class KnightDefend implements Defend {
 
     @Override
