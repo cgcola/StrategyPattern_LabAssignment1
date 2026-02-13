@@ -1,8 +1,8 @@
-package concreteStrategies;
+package concretestrategies;
 
-import interfaces.Defend;
+import interfaces.DefenseStrategy;
 
-public class WizardDefend implements Defend {
+public class WizardDefend implements DefenseStrategy {
 
     @Override
     public void defend() {

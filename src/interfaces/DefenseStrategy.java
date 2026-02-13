@@ -1,4 +1,4 @@
 package interfaces;
-public interface Defend {
+public interface DefenseStrategy {
     public void defend();
 }

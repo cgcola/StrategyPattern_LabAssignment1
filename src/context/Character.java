@@ -1,13 +1,13 @@
 package context;
 
-import interfaces.Attack;
-import interfaces.Defend;
+import interfaces.AttackStrategy;
+import interfaces.DefenseStrategy;
 
 public class Character {
-    private Attack attackStrategy;
-    private Defend defendStrategy;
+    private AttackStrategy attackStrategy;
+    private DefenseStrategy defendStrategy;
 
-    public Character(Attack attackStrategy, Defend defendStrategy) {
+    public Character(AttackStrategy attackStrategy, DefenseStrategy defendStrategy) {
         this.attackStrategy = attackStrategy;
         this.defendStrategy = defendStrategy;
     }

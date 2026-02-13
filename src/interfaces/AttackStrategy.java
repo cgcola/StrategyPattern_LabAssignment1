@@ -1,4 +1,4 @@
 package interfaces;
-public interface Attack {
+public interface AttackStrategy {
     public void attack();
 }

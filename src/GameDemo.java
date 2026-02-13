@@ -1,9 +1,9 @@
-import concreteStrategies.ArcherAttack;
-import concreteStrategies.ArcherDefend;
-import concreteStrategies.KnightAttack;
-import concreteStrategies.KnightDefend;
-import concreteStrategies.WizardAttack;
-import concreteStrategies.WizardDefend;
+import concretestrategies.ArcherAttack;
+import concretestrategies.ArcherDefend;
+import concretestrategies.KnightAttack;
+import concretestrategies.KnightDefend;
+import concretestrategies.WizardAttack;
+import concretestrategies.WizardDefend;
 import context.Character;
 
 public class GameDemo {

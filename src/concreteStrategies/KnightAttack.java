@@ -1,8 +1,8 @@
-package concreteStrategies;
+package concretestrategies;
 
-import interfaces.Attack;
+import interfaces.AttackStrategy;
 
-public class KnightAttack implements Attack {
+public class KnightAttack implements AttackStrategy {
 
     @Override
     public void attack() {
