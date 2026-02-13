@@ -59,3 +59,6 @@ public class Character {
     }
 }
 ```
+<hr>
+### UML Diagram:
+https://github.com/cgcola/StrategyPattern_LabAssignment1/blob/main/UMLDiagram:%20Lab%20Assignment%201%20_%20Strategy%20Pattern.png?raw=true
