@@ -60,5 +60,6 @@ public class Character {
 }
 ```
 <hr>
+
 ### UML Diagram:
 <img width="4028" height="1913" alt="image" src="https://github.com/user-attachments/assets/2113ecda-97d3-46da-b612-b2d1a06a9a35" />
