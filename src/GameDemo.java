@@ -1,4 +1,13 @@
 package src;
+
+import concreteStrategies.ArcherAttack;
+import concreteStrategies.ArcherDefend;
+import concreteStrategies.KnightAttack;
+import concreteStrategies.KnightDefend;
+import concreteStrategies.WizardAttack;
+import concreteStrategies.WizardDefend;
+import context.Character;
+
 public class GameDemo {
     public static void main(String[] args) {
         Character knight = new Character(new KnightAttack(), new KnightDefend());

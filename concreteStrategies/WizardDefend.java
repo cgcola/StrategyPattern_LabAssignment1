@@ -1,4 +1,7 @@
-package src;
+package concreteStrategies;
+
+import interfaces.Defend;
+
 public class WizardDefend implements Defend {
 
     @Override

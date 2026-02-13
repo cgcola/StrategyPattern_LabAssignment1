@@ -1,4 +1,7 @@
-package src;
+package concreteStrategies;
+
+import interfaces.Defend;
+
 public class KnightDefend implements Defend {
 
     @Override

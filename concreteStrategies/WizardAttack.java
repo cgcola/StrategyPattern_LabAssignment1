@@ -1,4 +1,7 @@
-package src;
+package concreteStrategies;
+
+import interfaces.Attack;
+
 public class WizardAttack implements Attack {
 
     @Override

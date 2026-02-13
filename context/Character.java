@@ -1,4 +1,8 @@
-package src;
+package context;
+
+import interfaces.Attack;
+import interfaces.Defend;
+
 public class Character {
     private Attack attackStrategy;
     private Defend defendStrategy;
